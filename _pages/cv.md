@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Download my CV as a [PDF]({{ site.baseurl }}/files/Michael_BEST_CV_2502.pdf)
+<embed src="{{ site.baseurl }}/files/Michael_BEST_CV_2502.pdf" width="600" height="700" type='application/pdf'>
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
