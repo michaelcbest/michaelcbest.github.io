@@ -81,7 +81,7 @@ publication_category:
   bkchap:
     title: 'Book Chapters' 
   working:
-    title: 'Working Papers'
+    title: 'Working Papers and Experiments in the Field'
   wip:
     title: 'Work in Progress'
 
