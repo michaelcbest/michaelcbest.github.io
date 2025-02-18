@@ -11,4 +11,4 @@ I am an Associate Professor (without tenure) in the Department of Economics at C
 
 My research interests lie in public and development economics where I study the design and implementation of public policy. I focus in particular on low- and middle-income countries, and on tax and procurement policy.
 
-Before joining Columbia I was a Post-doctoral Fellow at the Stanford Institute for Economic Policy Research. I earned by Ph.D. from the London School of Economics.
+Before joining Columbia I was a Post-doctoral Fellow at the Stanford Institute for Economic Policy Research. I earned my Ph.D. from the London School of Economics.
