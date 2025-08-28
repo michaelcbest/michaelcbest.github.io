@@ -10,11 +10,11 @@ We investigate housing market responses to transaction taxes using administrativ
 date: 2018-06-24
 journal: 'Review of Economic Studies'
 venue: '85(1), 157-193'
-paperurl: 'http://michaelcbest.github.io/files/Best-Kleven-LandNotches_2018.pdf'
+paperurl: 'https://academic.oup.com/restud/article/85/1/157/3887235'
 ---
 (with [Henrik Kleven](https://www.henrikkleven.com))
 
  
 We investigate housing market responses to transaction taxes using administrative data on all property transactions in the UK from 2004-2012 combined with quasi-experimental variation from tax notches and tax stimulus. We present two main findings. First, transaction taxes are highly distortionary across a range of margins, causing large distortions to the price, volume and timing of property transactions. Second, temporary transaction tax cuts are an enormously effective form of fiscal stimulus. A temporary elimination of a 1% transaction tax increased housing market activity by 20% in the short run (due to both timing and extensive responses) and less than half of the stimulus effect was reversed after the tax was reintroduced (due to re-timing). Because of the complementarities between moving house and consumer spending, these stimulus effects translate into extra spending per dollar of tax cut equal to about 1. We interpret our empirical findings in the context of a housing model with downpayment constraints in which leverage amplifies the effects of transaction taxes.
 
-[Download paper here](http://michaelcbest.github.io/files/Best-Kleven-LandNotches_2018.pdf)
+[Download paper here](https://academic.oup.com/restud/article/85/1/157/3887235)
