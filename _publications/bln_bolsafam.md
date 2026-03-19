@@ -1,5 +1,5 @@
 ---
-title: "Cash Transfers and Productive Inclusion"
+title: "Cash Transfers and Productive Inclusion: Evidence from Bolsa Familia"
 collection: publications
 coauthors: <a href="https://felipelobel.com/" target="_blank">Felipe Lobel</a> and <a href="https://sites.google.com/view/valdemarneto/home" target="_blank">Valdemar Neto</a>
 category: working
