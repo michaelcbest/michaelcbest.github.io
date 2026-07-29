@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Michael Carlos Best"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor of Economics (without tenure)"
+  bio              : "Associate Professor of Economics (with<del>out</del> tenure)"
   location         : "New York City"
   employer         : "Columbia University"
   uri              : # URL
